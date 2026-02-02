@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HazardCrowd</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    
+    <!-- Web Client ID from Firebase Console -->
+    <string name="default_web_client_id">531599236612-nfj61v2akpl46nhka3gvrjq4702c27gd.apps.googleusercontent.com</string>
+    <string name="version_1_0_0">Version 1.0.0</string>
+</resources>

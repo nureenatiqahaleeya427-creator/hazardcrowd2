@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "531599236612",
+    "project_id": "hazardcrowd-app",
+    "storage_bucket": "hazardcrowd-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531599236612:android:d4b4e4803dbc953ad09f51",
+        "android_client_info": {
+          "package_name": "com.example.hazardcrowd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531599236612-8jrf2nvi4jrcbvg4k90nf0la5gjialls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hazardcrowd",
+            "certificate_hash": "845710356a55dbb900b0f5fcb2020dba07ec2fd7"
+          }
+        },
+        {
+          "client_id": "531599236612-f3sf1e1bphvl8lhvlecpbjurcd277g2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hazardcrowd",
+            "certificate_hash": "dfaeb1ec344f9184c84dfc096f82a10be3ee2634"
+          }
+        },
+        {
+          "client_id": "531599236612-nfj61v2akpl46nhka3gvrjq4702c27gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyYMv9Um_bWWyn9GOTghSl-k081LOygQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531599236612-nfj61v2akpl46nhka3gvrjq4702c27gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
